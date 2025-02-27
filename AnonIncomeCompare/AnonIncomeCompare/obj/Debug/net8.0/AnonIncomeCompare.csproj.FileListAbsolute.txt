@@ -1,0 +1,14 @@
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeCompare\AnonIncomeCompare\bin\Debug\net8.0\AnonIncomeCompare.exe
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeCompare\AnonIncomeCompare\bin\Debug\net8.0\AnonIncomeCompare.deps.json
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeCompare\AnonIncomeCompare\bin\Debug\net8.0\AnonIncomeCompare.runtimeconfig.json
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeCompare\AnonIncomeCompare\bin\Debug\net8.0\AnonIncomeCompare.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeCompare\AnonIncomeCompare\bin\Debug\net8.0\AnonIncomeCompare.pdb
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeCompare\AnonIncomeCompare\obj\Debug\net8.0\AnonIncomeCompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeCompare\AnonIncomeCompare\obj\Debug\net8.0\AnonIncomeCompare.AssemblyInfoInputs.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeCompare\AnonIncomeCompare\obj\Debug\net8.0\AnonIncomeCompare.AssemblyInfo.cs
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeCompare\AnonIncomeCompare\obj\Debug\net8.0\AnonIncomeCompare.csproj.CoreCompileInputs.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeCompare\AnonIncomeCompare\obj\Debug\net8.0\AnonIncomeCompare.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeCompare\AnonIncomeCompare\obj\Debug\net8.0\refint\AnonIncomeCompare.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeCompare\AnonIncomeCompare\obj\Debug\net8.0\AnonIncomeCompare.pdb
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeCompare\AnonIncomeCompare\obj\Debug\net8.0\AnonIncomeCompare.genruntimeconfig.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeCompare\AnonIncomeCompare\obj\Debug\net8.0\ref\AnonIncomeCompare.dll
