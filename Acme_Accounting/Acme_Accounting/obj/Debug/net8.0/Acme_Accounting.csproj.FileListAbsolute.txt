@@ -1,0 +1,14 @@
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\bin\Debug\net8.0\Acme_Accounting.exe
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\bin\Debug\net8.0\Acme_Accounting.deps.json
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\bin\Debug\net8.0\Acme_Accounting.runtimeconfig.json
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\bin\Debug\net8.0\Acme_Accounting.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\bin\Debug\net8.0\Acme_Accounting.pdb
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\obj\Debug\net8.0\Acme_Accounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\obj\Debug\net8.0\Acme_Accounting.AssemblyInfoInputs.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\obj\Debug\net8.0\Acme_Accounting.AssemblyInfo.cs
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\obj\Debug\net8.0\Acme_Accounting.csproj.CoreCompileInputs.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\obj\Debug\net8.0\Acme_Accounting.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\obj\Debug\net8.0\refint\Acme_Accounting.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\obj\Debug\net8.0\Acme_Accounting.pdb
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\obj\Debug\net8.0\Acme_Accounting.genruntimeconfig.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\obj\Debug\net8.0\ref\Acme_Accounting.dll
