@@ -1,0 +1,14 @@
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualified\InsuranceQualified\bin\Debug\net8.0\InsuranceQualified.exe
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualified\InsuranceQualified\bin\Debug\net8.0\InsuranceQualified.deps.json
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualified\InsuranceQualified\bin\Debug\net8.0\InsuranceQualified.runtimeconfig.json
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualified\InsuranceQualified\bin\Debug\net8.0\InsuranceQualified.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualified\InsuranceQualified\bin\Debug\net8.0\InsuranceQualified.pdb
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualified\InsuranceQualified\obj\Debug\net8.0\InsuranceQualified.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualified\InsuranceQualified\obj\Debug\net8.0\InsuranceQualified.AssemblyInfoInputs.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualified\InsuranceQualified\obj\Debug\net8.0\InsuranceQualified.AssemblyInfo.cs
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualified\InsuranceQualified\obj\Debug\net8.0\InsuranceQualified.csproj.CoreCompileInputs.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualified\InsuranceQualified\obj\Debug\net8.0\InsuranceQualified.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualified\InsuranceQualified\obj\Debug\net8.0\refint\InsuranceQualified.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualified\InsuranceQualified\obj\Debug\net8.0\InsuranceQualified.pdb
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualified\InsuranceQualified\obj\Debug\net8.0\InsuranceQualified.genruntimeconfig.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualified\InsuranceQualified\obj\Debug\net8.0\ref\InsuranceQualified.dll
