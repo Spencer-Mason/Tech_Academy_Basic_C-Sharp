@@ -6,6 +6,7 @@ This repository is for the C# and .NET course with The Tech Academy.
 - [Acme Accounting](#acme-accounting)
 - [DailyReport](#dailyreport)
 - [AnonIncomeCompare](#anonincomecompare)
+- [InsuranceQualified](#insurancequalified)
 
 
 ### Acme Accounting
@@ -16,3 +17,6 @@ Simple console app that gets daily report information from The Tech Academy stud
 
 ### AnonIncomeCompare
 Console app that computes annual income of two people and compares them.
+
+### InsuranceQualified
+Console app that determines if a user is qualified for car insurance based on age and driving record.
