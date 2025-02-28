@@ -8,6 +8,7 @@ This repository is for the C# and .NET course with The Tech Academy.
 - [AnonIncomeCompare](#anonincomecompare)
 - [InsuranceQualified](#insurancequalified)
 - [PackageExpress](#packageexpress)
+- [Loops](#loops)
 
 
 ### Acme Accounting
@@ -24,3 +25,6 @@ Console app that determines if a user is qualified for car insurance based on ag
 
 ### PackageExpress
 Console app that determines if a package is too heavy/large too ship, and if not provides a quote for shipping.
+
+### Loops
+Console app that demonstrates "while" and "do while" loops.
