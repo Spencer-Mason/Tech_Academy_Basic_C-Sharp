@@ -1,0 +1,14 @@
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ArraysAndList\ArraysAndList\bin\Debug\net8.0\ArraysAndList.exe
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ArraysAndList\ArraysAndList\bin\Debug\net8.0\ArraysAndList.deps.json
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ArraysAndList\ArraysAndList\bin\Debug\net8.0\ArraysAndList.runtimeconfig.json
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ArraysAndList\ArraysAndList\bin\Debug\net8.0\ArraysAndList.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ArraysAndList\ArraysAndList\bin\Debug\net8.0\ArraysAndList.pdb
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ArraysAndList\ArraysAndList\obj\Debug\net8.0\ArraysAndList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ArraysAndList\ArraysAndList\obj\Debug\net8.0\ArraysAndList.AssemblyInfoInputs.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ArraysAndList\ArraysAndList\obj\Debug\net8.0\ArraysAndList.AssemblyInfo.cs
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ArraysAndList\ArraysAndList\obj\Debug\net8.0\ArraysAndList.csproj.CoreCompileInputs.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ArraysAndList\ArraysAndList\obj\Debug\net8.0\ArraysAndList.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ArraysAndList\ArraysAndList\obj\Debug\net8.0\refint\ArraysAndList.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ArraysAndList\ArraysAndList\obj\Debug\net8.0\ArraysAndList.pdb
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ArraysAndList\ArraysAndList\obj\Debug\net8.0\ArraysAndList.genruntimeconfig.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ArraysAndList\ArraysAndList\obj\Debug\net8.0\ref\ArraysAndList.dll
