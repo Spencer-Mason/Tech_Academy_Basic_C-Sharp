@@ -9,6 +9,7 @@ This repository is for the C# and .NET course with The Tech Academy.
 - [InsuranceQualified](#insurancequalified)
 - [PackageExpress](#packageexpress)
 - [Loops](#loops)
+- [ArraysAndList](#arraysandlist)
 
 
 ### Acme Accounting
@@ -28,3 +29,6 @@ Console app that determines if a package is too heavy/large too ship, and if not
 
 ### Loops
 Console app that demonstrates "while" and "do while" loops.
+
+### ArraysAndList
+Console app that creates arrays and a list and asks user for an index and displays whatever is at that index.
