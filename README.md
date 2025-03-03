@@ -10,6 +10,7 @@ This repository is for the C# and .NET course with The Tech Academy.
 - [PackageExpress](#packageexpress)
 - [Loops](#loops)
 - [ArraysAndList](#arraysandlist)
+- [SixPartAssignment](#sixpartassignment)
 
 
 ### Acme Accounting
@@ -32,3 +33,6 @@ Console app that demonstrates "while" and "do while" loops.
 
 ### ArraysAndList
 Console app that creates arrays and a list and asks user for an index and displays whatever is at that index.
+
+### SixPartAssignment
+A project containing several coding assignments
