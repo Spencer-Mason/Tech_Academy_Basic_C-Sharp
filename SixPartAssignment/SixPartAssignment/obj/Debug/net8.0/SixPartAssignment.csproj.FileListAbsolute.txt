@@ -1,0 +1,14 @@
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.exe
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.deps.json
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.runtimeconfig.json
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.pdb
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.AssemblyInfoInputs.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.AssemblyInfo.cs
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\refint\SixPartAssignment.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.pdb
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.genruntimeconfig.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\ref\SixPartAssignment.dll
