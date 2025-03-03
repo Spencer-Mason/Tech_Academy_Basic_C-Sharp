@@ -11,6 +11,7 @@ This repository is for the C# and .NET course with The Tech Academy.
 - [Loops](#loops)
 - [ArraysAndList](#arraysandlist)
 - [SixPartAssignment](#sixpartassignment)
+- [ExceptionHandling](#exceptionhandling)
 
 
 ### Acme Accounting
@@ -36,3 +37,6 @@ Console app that creates arrays and a list and asks user for an index and displa
 
 ### SixPartAssignment
 A project containing several coding assignments
+
+### ExceptionHandling
+Demontration of a try/catch block
