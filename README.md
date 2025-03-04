@@ -13,6 +13,7 @@ This repository is for the C# and .NET course with The Tech Academy.
 - [SixPartAssignment](#sixpartassignment)
 - [ExceptionHandling](#exceptionhandling)
 - [CallingMethods](#callingmethods)
+- [MethodOverloading](#methodoverloading)
 
 
 ### Acme Accounting
@@ -44,3 +45,6 @@ Demontration of a try/catch block
 
 ### CallingMethods
 App demonstrating creating a class in a seperate .cs file with three methods, and calling those methods in the main program file
+
+### MethodOverloading
+Simple console app to demonstrate method overloading
