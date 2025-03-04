@@ -12,6 +12,7 @@ This repository is for the C# and .NET course with The Tech Academy.
 - [ArraysAndList](#arraysandlist)
 - [SixPartAssignment](#sixpartassignment)
 - [ExceptionHandling](#exceptionhandling)
+- [CallingMethods](#callingmethods)
 
 
 ### Acme Accounting
@@ -40,3 +41,6 @@ A project containing several coding assignments
 
 ### ExceptionHandling
 Demontration of a try/catch block
+
+### CallingMethods
+App demonstrating creating a class in a seperate .cs file with three methods, and calling those methods in the main program file
