@@ -14,6 +14,7 @@ This repository is for the C# and .NET course with The Tech Academy.
 - [ExceptionHandling](#exceptionhandling)
 - [CallingMethods](#callingmethods)
 - [MethodOverloading](#methodoverloading)
+- [OptionalParameter](#optionalparameter)
 
 
 ### Acme Accounting
@@ -48,3 +49,6 @@ App demonstrating creating a class in a seperate .cs file with three methods, an
 
 ### MethodOverloading
 Simple console app to demonstrate method overloading
+
+### OptionalParameter
+Simple cosole app demonstrating optional user input and a method with a default parameter value
