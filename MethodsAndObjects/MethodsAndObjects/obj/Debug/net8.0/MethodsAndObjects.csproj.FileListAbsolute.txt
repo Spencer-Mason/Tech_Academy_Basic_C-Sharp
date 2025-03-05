@@ -1,0 +1,14 @@
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\bin\Debug\net8.0\MethodsAndObjects.exe
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\bin\Debug\net8.0\MethodsAndObjects.deps.json
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\bin\Debug\net8.0\MethodsAndObjects.runtimeconfig.json
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\bin\Debug\net8.0\MethodsAndObjects.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\bin\Debug\net8.0\MethodsAndObjects.pdb
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\obj\Debug\net8.0\MethodsAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\obj\Debug\net8.0\MethodsAndObjects.AssemblyInfoInputs.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\obj\Debug\net8.0\MethodsAndObjects.AssemblyInfo.cs
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\obj\Debug\net8.0\MethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\obj\Debug\net8.0\MethodsAndObjects.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\obj\Debug\net8.0\refint\MethodsAndObjects.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\obj\Debug\net8.0\MethodsAndObjects.pdb
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\obj\Debug\net8.0\MethodsAndObjects.genruntimeconfig.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\obj\Debug\net8.0\ref\MethodsAndObjects.dll
