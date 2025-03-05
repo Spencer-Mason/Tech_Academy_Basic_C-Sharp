@@ -15,6 +15,7 @@ This repository is for the C# and .NET course with The Tech Academy.
 - [CallingMethods](#callingmethods)
 - [MethodOverloading](#methodoverloading)
 - [OptionalParameter](#optionalparameter)
+- [ConsoleApp1](#consoleapp1)
 
 
 ### Acme Accounting
@@ -51,4 +52,7 @@ App demonstrating creating a class in a seperate .cs file with three methods, an
 Simple console app to demonstrate method overloading
 
 ### OptionalParameter
-Simple cosole app demonstrating optional user input and a method with a default parameter value
+Simple console app demonstrating optional user input and a method with a default parameter value
+
+### ConsoleApp1
+Simple console app for various assignment actions
