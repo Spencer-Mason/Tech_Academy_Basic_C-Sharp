@@ -59,4 +59,4 @@ Simple console app demonstrating optional user input and a method with a default
 Simple console app for various assignment actions
 
 ### MethodsAndObjects
-Console app demonstrating class inhetitance of properties and methods
+Console app demonstrating class inheritance of properties and methods
