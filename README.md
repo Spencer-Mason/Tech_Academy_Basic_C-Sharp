@@ -17,6 +17,7 @@ This repository is for the C# and .NET course with The Tech Academy.
 - [OptionalParameter](#optionalparameter)
 - [ConsoleApp1](#consoleapp1)
 - [MethodsAndObjects](#methodsandobjects)
+- [AbstractClass](#abstractclass)
 
 
 ### Acme Accounting
@@ -60,3 +61,6 @@ Simple console app for various assignment actions
 
 ### MethodsAndObjects
 Console app demonstrating class inheritance of properties and methods
+
+### AbstractClass
+Console app demonstrating an abstract class and method and inheriting from that class
