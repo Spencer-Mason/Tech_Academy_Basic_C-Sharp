@@ -18,6 +18,7 @@ This repository is for the C# and .NET course with The Tech Academy.
 - [ConsoleApp1](#consoleapp1)
 - [MethodsAndObjects](#methodsandobjects)
 - [AbstractClass](#abstractclass)
+- [AbstractClass2(polymorphism)](#abstractclass2(polymorphism))
 
 
 ### Acme Accounting
@@ -64,3 +65,6 @@ Console app demonstrating class inheritance of properties and methods
 
 ### AbstractClass
 Console app demonstrating an abstract class and method and inheriting from that class
+
+### AbstactClass2(polymorphism)
+Same as AbstractClass, but with an interface and demonstrating polymorphism
