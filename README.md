@@ -18,7 +18,7 @@ This repository is for the C# and .NET course with The Tech Academy.
 - [ConsoleApp1](#consoleapp1)
 - [MethodsAndObjects](#methodsandobjects)
 - [AbstractClass](#abstractclass)
-- [AbstractClass2(polymorphism)](#abstractclass2(polymorphism))
+- [AbstractClass2(polymorphism)](#abstractclass2polymorphism)
 
 
 ### Acme Accounting
