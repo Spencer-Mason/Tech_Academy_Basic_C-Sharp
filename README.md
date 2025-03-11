@@ -66,5 +66,5 @@ Console app demonstrating class inheritance of properties and methods
 ### AbstractClass
 Console app demonstrating an abstract class and method and inheriting from that class
 
-### AbstactClass2(polymorphism)
+### AbstractClass2(polymorphism)
 Same as AbstractClass, but with an interface and demonstrating polymorphism
