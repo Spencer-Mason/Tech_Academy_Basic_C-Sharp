@@ -19,6 +19,7 @@ This repository is for the C# and .NET course with The Tech Academy.
 - [MethodsAndObjects](#methodsandobjects)
 - [AbstractClass](#abstractclass)
 - [AbstractClass2(polymorphism)](#abstractclass2polymorphism)
+- [OverloadOperators](#overloadoperators)
 
 
 ### Acme Accounting
@@ -68,3 +69,6 @@ Console app demonstrating an abstract class and method and inheriting from that 
 
 ### AbstractClass2(polymorphism)
 Same as AbstractClass, but with an interface and demonstrating polymorphism
+
+### OverloadOperators
+Console app demonstrating overloading of '==' and '!=' operators
