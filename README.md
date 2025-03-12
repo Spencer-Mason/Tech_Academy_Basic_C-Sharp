@@ -20,6 +20,7 @@ This repository is for the C# and .NET course with The Tech Academy.
 - [AbstractClass](#abstractclass)
 - [AbstractClass2(polymorphism)](#abstractclass2polymorphism)
 - [OverloadOperators](#overloadoperators)
+- [ParsingEnums](#parsingenums)
 
 
 ### Acme Accounting
@@ -72,3 +73,6 @@ Same as AbstractClass, but with an interface and demonstrating polymorphism
 
 ### OverloadOperators
 Console app demonstrating overloading of '==' and '!=' operators
+
+### ParsingEnums
+Console app that takes user input and saves it as an enum, if the input is valid
