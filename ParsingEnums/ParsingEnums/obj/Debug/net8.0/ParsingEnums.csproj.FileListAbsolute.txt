@@ -1,0 +1,14 @@
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\bin\Debug\net8.0\ParsingEnums.exe
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\bin\Debug\net8.0\ParsingEnums.deps.json
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\bin\Debug\net8.0\ParsingEnums.runtimeconfig.json
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\bin\Debug\net8.0\ParsingEnums.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\bin\Debug\net8.0\ParsingEnums.pdb
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.AssemblyInfoInputs.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.AssemblyInfo.cs
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.csproj.CoreCompileInputs.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\obj\Debug\net8.0\refint\ParsingEnums.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.pdb
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.genruntimeconfig.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ref\ParsingEnums.dll
