@@ -1,0 +1,14 @@
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\OverloadOperators\OverloadOperators\bin\Debug\net8.0\OverloadOperators.exe
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\OverloadOperators\OverloadOperators\bin\Debug\net8.0\OverloadOperators.deps.json
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\OverloadOperators\OverloadOperators\bin\Debug\net8.0\OverloadOperators.runtimeconfig.json
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\OverloadOperators\OverloadOperators\bin\Debug\net8.0\OverloadOperators.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\OverloadOperators\OverloadOperators\bin\Debug\net8.0\OverloadOperators.pdb
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\OverloadOperators\OverloadOperators\obj\Debug\net8.0\OverloadOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\OverloadOperators\OverloadOperators\obj\Debug\net8.0\OverloadOperators.AssemblyInfoInputs.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\OverloadOperators\OverloadOperators\obj\Debug\net8.0\OverloadOperators.AssemblyInfo.cs
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\OverloadOperators\OverloadOperators\obj\Debug\net8.0\OverloadOperators.csproj.CoreCompileInputs.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\OverloadOperators\OverloadOperators\obj\Debug\net8.0\OverloadOperators.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\OverloadOperators\OverloadOperators\obj\Debug\net8.0\refint\OverloadOperators.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\OverloadOperators\OverloadOperators\obj\Debug\net8.0\OverloadOperators.pdb
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\OverloadOperators\OverloadOperators\obj\Debug\net8.0\OverloadOperators.genruntimeconfig.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\OverloadOperators\OverloadOperators\obj\Debug\net8.0\ref\OverloadOperators.dll
