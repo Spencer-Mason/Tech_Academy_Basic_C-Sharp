@@ -1,0 +1,14 @@
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Lambda\Lambda\bin\Debug\net8.0\Lambda.exe
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Lambda\Lambda\bin\Debug\net8.0\Lambda.deps.json
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Lambda\Lambda\bin\Debug\net8.0\Lambda.runtimeconfig.json
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Lambda\Lambda\bin\Debug\net8.0\Lambda.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Lambda\Lambda\bin\Debug\net8.0\Lambda.pdb
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Lambda\Lambda\obj\Debug\net8.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Lambda\Lambda\obj\Debug\net8.0\Lambda.AssemblyInfoInputs.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Lambda\Lambda\obj\Debug\net8.0\Lambda.AssemblyInfo.cs
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Lambda\Lambda\obj\Debug\net8.0\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Lambda\Lambda\obj\Debug\net8.0\Lambda.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Lambda\Lambda\obj\Debug\net8.0\refint\Lambda.dll
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Lambda\Lambda\obj\Debug\net8.0\Lambda.pdb
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Lambda\Lambda\obj\Debug\net8.0\Lambda.genruntimeconfig.cache
+C:\Users\someg\OneDrive\Desktop\Basic_C#_Programs\Lambda\Lambda\obj\Debug\net8.0\ref\Lambda.dll
