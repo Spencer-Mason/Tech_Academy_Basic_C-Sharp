@@ -21,6 +21,7 @@ This repository is for the C# and .NET course with The Tech Academy.
 - [AbstractClass2(polymorphism)](#abstractclass2polymorphism)
 - [OverloadOperators](#overloadoperators)
 - [ParsingEnums](#parsingenums)
+- [Lambda](#lambda)
 
 
 ### Acme Accounting
@@ -76,3 +77,6 @@ Console app demonstrating overloading of '==' and '!=' operators
 
 ### ParsingEnums
 Console app that takes user input and saves it as an enum, if the input is valid
+
+### Lambda
+Console app demonstrating the benifits of using a lambda expression as opposed to a foreach loop
