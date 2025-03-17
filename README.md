@@ -22,6 +22,7 @@ This repository is for the C# and .NET course with The Tech Academy.
 - [OverloadOperators](#overloadoperators)
 - [ParsingEnums](#parsingenums)
 - [Lambda](#lambda)
+- [DateTime](#datetime)
 
 
 ### Acme Accounting
@@ -80,3 +81,6 @@ Console app that takes user input and saves it as an enum, if the input is valid
 
 ### Lambda
 Console app demonstrating the benifits of using a lambda expression as opposed to a foreach loop
+
+### DateTime
+Console app that demostrates adding hours to the current date/time based on user input
