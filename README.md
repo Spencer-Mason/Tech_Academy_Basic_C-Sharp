@@ -23,6 +23,7 @@ This repository is for the C# and .NET course with The Tech Academy.
 - [ParsingEnums](#parsingenums)
 - [Lambda](#lambda)
 - [DateTime](#datetime)
+- [ConstructorChain](#constructorchain)
 
 
 ### Acme Accounting
@@ -47,40 +48,43 @@ Console app that demonstrates "while" and "do while" loops.
 Console app that creates arrays and a list and asks user for an index and displays whatever is at that index.
 
 ### SixPartAssignment
-A project containing several coding assignments
+A project containing several coding assignments.
 
 ### ExceptionHandling
-Demontration of a try/catch block
+Demontration of a try/catch block.
 
 ### CallingMethods
-App demonstrating creating a class in a separate .cs file with three methods, and calling those methods in the main program file
+App demonstrating creating a class in a separate .cs file with three methods, and calling those methods in the main program file.
 
 ### MethodOverloading
-Simple console app to demonstrate method overloading
+Simple console app to demonstrate method overloading.
 
 ### OptionalParameter
-Simple console app demonstrating optional user input and a method with a default parameter value
+Simple console app demonstrating optional user input and a method with a default parameter value.
 
 ### ConsoleApp1
-Simple console app for various assignment actions
+Simple console app for various assignment actions.
 
 ### MethodsAndObjects
-Console app demonstrating class inheritance of properties and methods
+Console app demonstrating class inheritance of properties and methods.
 
 ### AbstractClass
-Console app demonstrating an abstract class and method and inheriting from that class
+Console app demonstrating an abstract class and method and inheriting from that class.
 
 ### AbstractClass2(polymorphism)
-Same as AbstractClass, but with an interface and demonstrating polymorphism
+Same as AbstractClass, but with an interface and demonstrating polymorphism.
 
 ### OverloadOperators
-Console app demonstrating overloading of '==' and '!=' operators
+Console app demonstrating overloading of '==' and '!=' operators.
 
 ### ParsingEnums
-Console app that takes user input and saves it as an enum, if the input is valid
+Console app that takes user input and saves it as an enum, if the input is valid.
 
 ### Lambda
-Console app demonstrating the benifits of using a lambda expression as opposed to a foreach loop
+Console app demonstrating the benifits of using a lambda expression as opposed to a foreach loop.
 
 ### DateTime
-Console app that demostrates adding hours to the current date/time based on user input
+Console app that demostrates adding hours to the current date/time based on user input.
+
+### ConstructorChain
+Basic console app demonstrating chaining constructors.
