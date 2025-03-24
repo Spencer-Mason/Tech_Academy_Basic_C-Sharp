@@ -24,6 +24,7 @@ This repository is for the C# and .NET course with The Tech Academy.
 - [Lambda](#lambda)
 - [DateTime](#datetime)
 - [ConstructorChain](#constructorchain)
+- [CarInsurance](#carinsurance)
 
 
 ### Acme Accounting
@@ -88,3 +89,6 @@ Console app that demostrates adding hours to the current date/time based on user
 
 ### ConstructorChain
 Basic console app demonstrating chaining constructors.
+
+### CarInsurance
+Demonstration assignment of an ASP.NET MVC web-app where a user enters information and gets a car insurance quote. Includes an admin page that displays all insurees and their quotes.
