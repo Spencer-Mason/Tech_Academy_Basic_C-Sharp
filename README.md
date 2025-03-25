@@ -25,6 +25,7 @@ This repository is for the C# and .NET course with The Tech Academy.
 - [DateTime](#datetime)
 - [ConstructorChain](#constructorchain)
 - [CarInsurance](#carinsurance)
+- [CodeFirstNewDatabaseSample](#codefirstnewdatabasesample)
 
 
 ### Acme Accounting
@@ -92,3 +93,6 @@ Basic console app demonstrating chaining constructors.
 
 ### CarInsurance
 Demonstration assignment of an ASP.NET MVC web-app where a user enters information and gets a car insurance quote. Includes an admin page that displays all insurees and their quotes.
+
+### CodeFirstNewDatabaseSample
+Basic console app demonstrating the "code-first" approach to creating and adding to a database.
